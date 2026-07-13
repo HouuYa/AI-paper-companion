@@ -30,6 +30,62 @@ As a result, many people stop reading papers altogether.
 
 AI Paper Companion was created to address these challenges through a structured, LLM-assisted learning workflow.
 
+## Research Scope
+
+AI Paper Companion does **not** aim to summarize every AI research paper ever published.
+
+Instead, the project focuses on a carefully curated collection of papers and educational resources that have had a significant impact on the development of modern artificial intelligence.
+
+By following established learning paths rather than random paper collections, learners can build a coherent understanding of AI from its foundations to today's frontier models.
+
+The primary research scope is defined by three complementary sources.
+
+### 1. Ilya Sutskever's Foundational Reading List
+
+The project begins with the widely shared collection of approximately **30 research papers** that Ilya Sutskever reportedly recommended to John Carmack as essential reading for understanding modern AI.
+
+Although the original list is relatively small, it captures many of the breakthroughs that fundamentally changed the field of deep learning.
+
+These papers provide the historical foundation for this repository.
+
+---
+
+### 2. Papers.com Learning Path
+
+Papers.com extends the original reading list into a structured curriculum that follows the evolution of artificial intelligence through its major research milestones.
+
+The learning path includes topics such as:
+
+* Deep Learning
+* Computer Vision
+* Sequential Modeling
+* Attention Mechanisms
+* Transformers
+* Graph Neural Networks
+* Scaling Laws
+* Reinforcement Learning
+* Information Theory
+* Complexity Theory
+* AI Alignment
+
+Rather than presenting isolated papers, Papers.com organizes them into a logical sequence that makes it easier to understand how one breakthrough led to the next.
+
+---
+
+### 3. AI Canon (a16z)
+
+AI Canon, curated by Andreessen Horowitz (a16z), complements the research papers with carefully selected books, blog posts, talks, engineering articles, and educational resources.
+
+While research papers explain *what* was discovered, AI Canon helps explain *why those discoveries mattered* and how they influenced the broader AI ecosystem.
+
+---
+
+Together, these three sources define the primary learning and research scope of AI Paper Companion.
+
+Future papers may be added, but they should strengthen the learning journey rather than simply increase the number of papers.
+
+
+
 ---
 
 # Our Philosophy
@@ -154,11 +210,44 @@ Understanding these relationships is essential for developing an intuitive under
 
 # Learning Sources
 
-This project combines multiple high-quality learning resources.
+The repository is organized around three complementary learning resources.
 
-## AI Canon
+| Source                            | Purpose                                                                                                         |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Ilya Sutskever's Reading List** | Study the foundational papers that shaped modern deep learning.                                                 |
+| **Papers.com**                    | Follow a structured learning roadmap from foundational concepts to state-of-the-art AI systems.                 |
+| **AI Canon (a16z)**               | Gain historical context, engineering insights, recommended books, talks, and influential educational materials. |
 
-AI Canon, curated by Andreessen Horowitz (a16z), provides a collection of influential papers, books, talks, blog posts, and educational resources that have shaped modern artificial intelligence.
+These resources are intentionally combined to answer three different questions:
+
+* **What should I read first?** — Ilya Sutskever's Reading List
+* **What should I read next?** — Papers.com Learning Path
+* **Why is this work important?** — AI Canon
+
+By combining these perspectives, AI Paper Companion becomes more than a paper collection. It becomes a structured learning companion that guides learners through the evolution of modern artificial intelligence.
+
+                  AI Canon
+                     │
+                     │
+      Historical Context & Engineering Insights
+                     │
+                     ▼
+        Papers.com Learning Roadmap
+                     │
+                     ▼
+ Ilya Sutskever's Foundational Papers
+                     │
+                     ▼
+           LLM Draft Generation
+                     │
+                     ▼
+         Human Critical Review
+                     │
+                     ▼
+          Personal Knowledge Base
+                     │
+                     ▼
+         AI Research Companion
 
 ---
 
