@@ -226,28 +226,6 @@ These resources are intentionally combined to answer three different questions:
 
 By combining these perspectives, AI Paper Companion becomes more than a paper collection. It becomes a structured learning companion that guides learners through the evolution of modern artificial intelligence.
 
-                  AI Canon
-                     │
-                     │
-      Historical Context & Engineering Insights
-                     │
-                     ▼
-        Papers.com Learning Roadmap
-                     │
-                     ▼
- Ilya Sutskever's Foundational Papers
-                     │
-                     ▼
-           LLM Draft Generation
-                     │
-                     ▼
-         Human Critical Review
-                     │
-                     ▼
-          Personal Knowledge Base
-                     │
-                     ▼
-         AI Research Companion
 
 ---
 
@@ -341,6 +319,32 @@ frontend/
 ## Phase 3 — AI Safety Research Platform
 
 The knowledge accumulated through this project can later be extended to support AI safety research, governance, standardization, and auditing.
+
+```text
+                  AI Canon
+                     │
+                     │
+      Historical Context & Engineering Insights
+                     │
+                     ▼
+        Papers.com Learning Roadmap
+                     │
+                     ▼
+ Ilya Sutskever's Foundational Papers
+                     │
+                     ▼
+           LLM Draft Generation
+                     │
+                     ▼
+         Human Critical Review
+                     │
+                     ▼
+          Personal Knowledge Base
+                     │
+                     ▼
+         AI Research Companion
+```
+
 
 ---
 
